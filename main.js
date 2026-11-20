@@ -10,7 +10,7 @@
 
 // Endpoint n8n que recebe o cadastro (→ RD Station). AINDA NÃO DEFINIDO: perguntar ao Nil.
 // Nunca reaproveitar o webhook de outra campanha (GUIA_FORMULARIOS, Passo 5).
-const WEBHOOK_URL = '[WEBHOOK_URL]';
+const WEBHOOK_URL = 'https://n8n-altis-n8n-start.jd2z5l.easypanel.host/webhook/quartaclass';
 
 // Página + versão, padrão GUIA "nome_da_pagina-vN".
 const ORIGEM = 'quartaclass_felipe_belanda-v1';
