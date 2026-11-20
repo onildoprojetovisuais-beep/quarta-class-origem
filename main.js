@@ -17,7 +17,7 @@ const ORIGEM = 'quartaclass_felipe_belanda-v1';
 
 // Grupo de WhatsApp da ação (único lugar onde vai o link do Zoom). AINDA NÃO EXISTE.
 // Placeholder = sucesso sem redirecionamento e sem botão.
-const GROUP_URL = '[LINK_GRUPO_WHATSAPP]';
+const GROUP_URL = 'https://sndflw.com/i/quartaclass';
 
 // Evento enviado ao dataLayer (GTM) quando a inscrição é registrada.
 const GTM_EVENT = 'lead_quartaclass_felipe';
